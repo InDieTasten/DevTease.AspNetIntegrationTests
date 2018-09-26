@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTease.AspNetCoreApp", "DevTease.AspNetCoreApp\DevTease.AspNetCoreApp.csproj", "{B694A04E-9729-4D6C-8E5D-1527AB716E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.AspNetCoreApp", "DevTease.AspNetCoreApp\DevTease.AspNetCoreApp.csproj", "{B694A04E-9729-4D6C-8E5D-1527AB716E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTease.IntegrationTests", "..\DevTease.IntegrationTests\DevTease.IntegrationTests.csproj", "{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.IntegrationTests", "..\DevTease.IntegrationTests\DevTease.IntegrationTests.csproj", "{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
