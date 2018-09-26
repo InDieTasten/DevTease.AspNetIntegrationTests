@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.AspNetCoreApp", "DevTease.AspNetCoreApp\DevTease.AspNetCoreApp.csproj", "{B694A04E-9729-4D6C-8E5D-1527AB716E93}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.IntegrationTests", "..\DevTease.IntegrationTests\DevTease.IntegrationTests.csproj", "{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevTease.IntegrationTests", "DevTease.IntegrationTests\DevTease.IntegrationTests.csproj", "{4845708E-D3AC-4149-89D5-F970122356BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B694A04E-9729-4D6C-8E5D-1527AB716E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B694A04E-9729-4D6C-8E5D-1527AB716E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B694A04E-9729-4D6C-8E5D-1527AB716E93}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4F52829-CAC2-4F9A-ABF9-95AB5121FC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4845708E-D3AC-4149-89D5-F970122356BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4845708E-D3AC-4149-89D5-F970122356BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4845708E-D3AC-4149-89D5-F970122356BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4845708E-D3AC-4149-89D5-F970122356BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
