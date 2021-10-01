@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using DevTease.AspNetCoreApp.Interfaces.Repository;
+﻿using DevTease.AspNetCoreApp.Interfaces.Repository;
 using DevTease.AspNetCoreApp.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevTease.AspNetCoreApp.Controllers

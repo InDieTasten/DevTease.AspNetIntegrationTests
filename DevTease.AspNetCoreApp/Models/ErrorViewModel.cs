@@ -1,5 +1,3 @@
-using System;
-
 namespace DevTease.AspNetCoreApp.Models
 {
     public class ErrorViewModel
