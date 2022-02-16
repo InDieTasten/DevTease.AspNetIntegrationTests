@@ -20,7 +20,8 @@ namespace DevTease.AspNetCoreApp.Controllers
         {
             var banana = bananaRepository.GetBanana();
 
-            banana.Curvature = -1;
+            // This line will make sure to fail one of the integration tests:
+            // banana.Curvature = -1;
 
             return banana;
         }
